@@ -17,6 +17,9 @@
 
 ![Surjyaneeh's github stats](https://github-readme-stats.vercel.app/api?username=surjyaneeh&show_icons=true&hide_border=true)
 <br />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=surjyaneeh&theme=tokyonight" />
+</p>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=surjyaneeh.surjyaneeh)
 
 
