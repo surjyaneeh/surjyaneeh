@@ -11,8 +11,11 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Engineering. </br>
+🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Science and Engineering. </br>
 👨‍💻  I am passionate about Machine Learning and Data Science with Python.
+
+### Find My Blogs Here ✒
+
 
 
 ![Surjyaneeh's github stats](https://github-readme-stats.vercel.app/api?username=surjyaneeh&show_icons=true&hide_border=true)
