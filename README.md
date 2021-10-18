@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I'm Surjyanee.
+
+<a href="https://www.linkedin.com/in/surjyanee-halder-bb4b661a6/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+
+<a href="mailto:surjyaneeh@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br />
+
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Engineering. </br>
+👨‍💻  I am passionate about Machine Learning and Data Science with Python.
+
+
+![Surjyaneeh's github stats](https://github-readme-stats.vercel.app/api?username=surjyaneeh&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=surjyaneeh.surjyaneeh)
+
 
 <!--
 **surjyaneeh/surjyaneeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
