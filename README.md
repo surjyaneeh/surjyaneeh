@@ -15,13 +15,6 @@
 👨‍💻  I am passionate about Machine Learning and Data Science with Python.
 
 
-**Open Source Projects-Open for Contributions🥇**<br>
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/surjyaneeh) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/surjyaneeh)
-|      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs:bell:  | Closed PRs:fire:  |
-|-------------|-------------------|---|---|---|---|
-| [**Pyberry**](https://github.com/surjyaneeh/Pyberry) | [![GitHub Stars](https://img.shields.io/github/stars/surjyaneeh/Pyberry?style=flat-square&labelColor=343b41)](https://github.com/surjyaneeh/Pyberry/stars) | [![GitHub Forks](https://img.shields.io/github/forks/surjyaneeh/Pyberry?style=flat-square&labelColor=343b41)](https://github.com/surjyaneeh/Pyberry/forks) | [![GitHub Issues](https://img.shields.io/github/issues/surjyaneeh/Pyberry?style=flat-square)](https://github.com/surjyaneeh/Pyberry/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/surjyaneeh/Pyberry?style=flat&logo=github)](https://github.com/surjyaneeh/Pyberry/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/surjyaneeh/Pyberry?style=flat&color=critical&logo=github)](https://github.com/surjyaneeh/Pyberry/pulls?q=is%3Apr+is%3Aclosed) |
-
 
 ![Surjyaneeh's github stats](https://github-readme-stats.vercel.app/api?username=surjyaneeh&show_icons=true&hide_border=true)
 <br />
