@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Surjyanee.
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Surjyanee </h1>
+<h2 align="center">An Undergraduate Computer Science Engineering Student </h2>
+
 
 <a href="https://www.linkedin.com/in/surjyanee-halder-bb4b661a6/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -15,12 +17,20 @@
 👨‍💻  I am passionate about Machine Learning and Data Science with Python.
 
 
+### 🔭 I have worked as:
+
+   - Contributor @Girlscript Winter of Contributing
+   - Data Science & Business Analytics Intern @The Sparks Foundation
+
 
 ![Surjyaneeh's github stats](https://github-readme-stats.vercel.app/api?username=surjyaneeh&show_icons=true&hide_border=true)
 <br />
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=surjyaneeh&theme=tokyonight" />
 </p>
+
+### 🏆 Trophies:
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surjyaneeh" alt="surjyaneeh" /></a> </p>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=surjyaneeh.surjyaneeh)
