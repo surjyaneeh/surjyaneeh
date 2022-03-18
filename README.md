@@ -12,6 +12,10 @@
 
 <br />
 
+<h3 align="center">Welcome to my Github Profile😀</h3>
+<img src="https://user-images.githubusercontent.com/68391974/126289518-a8422fd8-b728-4425-a231-b918c37aad8e.gif" align="right" width="450" height="420"/>
+
+
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Science and Engineering. </br>
 👨‍💻  I am passionate about Machine Learning and Data Science with Python.
