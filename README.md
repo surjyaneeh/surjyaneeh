@@ -25,6 +25,7 @@
 
    - Contributor @Girlscript Winter of Contributing
    - Data Science & Business Analytics Intern @The Sparks Foundation
+   - Contributor @Opencode 2022
 
 
 ![Surjyaneeh's github stats](https://github-readme-stats.vercel.app/api?username=surjyaneeh&show_icons=true&hide_border=true)
