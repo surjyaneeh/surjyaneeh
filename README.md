@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Surjyanee </h1>
-<h2 align="center">An Undergraduate Computer Science Engineering Student </h2>
+<h2 align="center">A Postgraduate Computer Science Student </h2>
 
 
 <a href="https://www.linkedin.com/in/surjyanee-halder-bb4b661a6/">
@@ -17,7 +17,7 @@
 
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Science and Engineering. </br>
+🎓 I’m an Open-Source enthusiast pursuing my Masters in Computer Science from ISI, Kolkata. </br>
 👨‍💻  I am passionate about Machine Learning and Data Science with Python.
 
 
